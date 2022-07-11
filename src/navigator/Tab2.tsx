@@ -1,6 +1,6 @@
 import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
-import {RootStackParams} from './Navigator';
+import {RootStackParams} from './Tab1';
 import {SearchScreen} from '../screens/SearchScreen';
 import {PokemonScreen} from '../screens/PokemonScreen';
 
